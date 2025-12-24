@@ -48,8 +48,6 @@ Hand-Gesture-Recognition-System-for-ASL-Alphabet/
 |-- converted_keras/
 |   |-- keras_model.h5
 |   |-- labels.txt
-|-- data/
-    |-- custom_dataset/
 ```
 
 ## Getting Started (VS Code setup)
